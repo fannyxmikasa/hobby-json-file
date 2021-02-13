@@ -1,0 +1,17 @@
+[
+  {
+    "img_src": "../images/programmer-side.jpg",
+    "hobby" : "Programming",
+    "definition" : "Programming po"
+  },
+  {
+    "img_src": "../images/gaming-side.jpg",
+    "hobby" : "Online Games",
+    "definition" : "Online Games po"
+  },
+  {
+    "img_src": "../images/mtb-side.jpg",
+    "hobby" : "Mountain Biking",
+    "definition" : "Travel"
+  }
+]
